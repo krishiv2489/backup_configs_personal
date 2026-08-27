@@ -1,0 +1,25 @@
+font_family      JetBrains Mono
+font_size        14.0
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+
+cursor_trail 1
+
+background_opacity 1.0
+confirm_os_window_close 0
+
+wheel_scroll_min_lines 1
+
+enable_audio_bell no
+hide_window_decorations yes
+
+window_padding_width 10
+
+scrollbar_handle_opacity 0.80
+scrollbar_track_opacity 0
+scrollbar_track_hover_opacity 0
+
+sync_to_monitor no
+
+include ~/.config/kitty/kitty-matugen-colors.conf
